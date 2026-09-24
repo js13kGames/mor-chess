@@ -1,4 +1,8 @@
 ---
+genres:
+  - puzzle
+  - strategy
+  - tabletop
 post: https://github.com/eguneys/morchess_js13k_25?tab=readme-ov-file#mor-chess
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
